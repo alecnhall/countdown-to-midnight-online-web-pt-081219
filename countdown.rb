@@ -14,5 +14,6 @@ countdown_with_sleep(num)
   sleep(1)
   num -= 1
   end
+  sleep(1)
   return "HAPPY NEW YEAR!"
 end
